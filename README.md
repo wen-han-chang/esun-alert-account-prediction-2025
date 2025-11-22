@@ -169,8 +169,6 @@ pip install -r requirements.txt
 -acct_predict.csv
 -acct_transaction.csv
 
----
-
 ## 4. Run the Entire Pipeline 執行完整流程
 
 ```bash
